@@ -3,7 +3,7 @@
 </a>
 </div>
 
-# Mobile Declarative Pokedex app
+# Pokedex App By Declarative UI Pattern
 
 ## Overview
 
