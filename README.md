@@ -38,7 +38,7 @@ Through this project, we aim to contribute to the knowledge base of mobile app d
 |Android Compose|iOS SwiftUI|Flutter|
 |:------:|:---:|:---:|
 |<img src="https://github.com/Origogi/mobile-declarative-pokedex-app/assets/35194820/2d859621-b5cf-47c1-8ac1-69e1ac4ebcc1" width=150 />|<img src="https://github.com/Origogi/mobile-declarative-pokedex-app/assets/35194820/18f2364d-6547-4b19-807c-c56b431167f5" width=150 />|<img src="https://github.com/Origogi/mobile-declarative-pokedex-app/assets/35194820/3271b670-5593-405b-aaf7-ab35011ba9ba" width=150 />|
-|[Link](https://github.com/Origogi/android-compose-pokedex)|[Link](https://github.com/Origogi/ios-swiftui-pokedex)|[In Progress](https://github.com/Origogi/flutter-pokedex)|
+|[Link](https://github.com/Origogi/android-compose-pokedex)|[Link](https://github.com/Origogi/ios-swiftui-pokedex)|[Link](https://github.com/Origogi/flutter-pokedex)|
 
 </div>
 
